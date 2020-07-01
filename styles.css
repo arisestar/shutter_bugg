@@ -1,0 +1,61 @@
+/*shutterbugg bootstrap project 6/22/2020*/
+
+.container{
+  max-width: 968px;
+}
+
+.main{
+  background-image: url("../images/intro.jpg");
+  background-size: cover;
+  height:600px;
+  background-attachment:fixed;
+  padding-top:30px;
+  
+}
+
+.main h1{
+  font-family: 'Spirax', cursive;
+  font-size:3.5em;
+  text-shadow:lightpink 4px 2px 15px ;
+  
+}
+ 
+ .main h2{
+   font-family: 'Gothic A1', sans-serif;
+   margin-bottom:40px;
+   
+ }
+ 
+ .btn{
+   background-color:skyblue;
+   font-size:1.5em;
+   color:white;
+   border-radius:30px;
+   padding:5px 25px;
+ }
+
+.section .row{
+  
+  padding-top:50px;
+}
+
+.row h1{
+  font-family: 'Tangerine', cursive;
+  font-size:3em;
+}
+
+.row p {
+  font-family: 'Tangerine', cursive;
+  font-size:3em;
+   color:aqua;
+}
+
+#store {
+  text-align:center;
+  padding-top:30px;
+  border-bottom: 1px solid black;
+}
+
+.footer h1{
+  font-size:3.5em;
+}
